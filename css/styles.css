@@ -15,3 +15,11 @@ ul {
   font-size: 20px;
   line-height: 30px;
 }
+
+img {
+  max-width: 800px;
+}
+
+a {
+  font-size: 20px;
+}
